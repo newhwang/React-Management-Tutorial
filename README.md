@@ -1,11 +1,13 @@
 ## Management System
 본 프로젝트는 리액트 고객관리 시스템 입니다. 
 
-이번에는 연습으로 커밋하는 것입니다.
+깃 커밋 방법
 
-다시한번 깃해봅니다.
+PS C:\React Project Tutorial\management> git remote add origin https://github.com/newhwang/React-Management-Tutorial.git    
+PS C:\React Project Tutorial\management> git push --set-upstream origin master
 
-또한번 깃해보자
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
