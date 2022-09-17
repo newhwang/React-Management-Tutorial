@@ -1,6 +1,7 @@
 ## Management System
-본 프로젝트는 리액트 고객관리 시스템 입니다. ..알겠지요? ㅎㅎㅎㅎㅎ
+본 프로젝트는 리액트 고객관리 시스템 입니다. 
 
+이번에는 연습으로 커밋하는 것입니다.
 
 # Getting Started with Create React App
 
