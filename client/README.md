@@ -13,6 +13,10 @@ https://ndb796.tistory.com/217?category=1030599
 
 
 
+8강 rest 이후 부터 서버실행 PS C:\React Project Tutorial\management> yarn dev    
+
+
+
 
 # Getting Started with Create React App
 
