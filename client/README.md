@@ -7,6 +7,12 @@ PS C:\React Project Tutorial\management> git remote add origin https://github.co
 PS C:\React Project Tutorial\management> git push --set-upstream origin master
 
 
+https://ndb796.tistory.com/217?category=1030599
+
+서버실행 하기    PS C:\React Project Tutorial\management> node server.js
+
+
+
 
 # Getting Started with Create React App
 
